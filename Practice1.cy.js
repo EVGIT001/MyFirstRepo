@@ -7,7 +7,7 @@ describe('API Testing', () => {
         const request = {
 
 
-            name: Math.random().toString(4).substring(2),//math.random() will return a random number then it will convert to string in 4 charactergit.
+            name: Math.random().toString(4).substring(2),//math.random() will return a random number then it will convert to string in 4 charactergit!
             job: "QA",
             Email: Math.random().toString(4).substring(2) + "@gmail.com"
 
